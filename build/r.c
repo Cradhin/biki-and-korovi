@@ -1,5 +1,5 @@
 #include<stdio.h>
-void rules() 
+void r() 
 { 
 printf("IGNAT\n\n"); 
 } 

@@ -5,7 +5,7 @@
 int main() 
 { 
 setlocale (0,"Russian");  
-rules(); 
+r(); 
 printf("Загадайте 4-значное число\n"); 
 scanf("%d",&numk); 
 system("clear"); 
